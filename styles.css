@@ -136,9 +136,22 @@ span {
 
 /* cast */
 
-#cast h1 {
+#cast h1{
     text-align: center;
     margin: 3em 0;
+    color: #d19c08;
+    text-transform: uppercase;
+
+}
+
+#cast h2{
+   text-align: center;
+}
+
+#cast hr {
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .card {
