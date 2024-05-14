@@ -23,7 +23,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-   
 }
 
 a {
@@ -138,18 +137,25 @@ span {
 
 #cast h1{
     text-align: center;
-    margin: 3em 0;
+    margin: 1em 0;
     color: #d19c08;
     text-transform: uppercase;
+}
 
+.cast-text {
+    background: rgba(128, 128, 128, 0.411);
+    padding: 3px;
+    margin: 0 auto;
+    width: 280px;
 }
 
 #cast h2{
    text-align: center;
+   margin-bottom: 2em;
 }
 
 #cast hr {
-    width: 300px;
+    width: 280px;
     text-align: center;
     margin: 0 auto;
 }
@@ -179,15 +185,15 @@ span {
 
 #cast .cast-row img {
     width: 280px;
-    height: 500px;
+    height: 400px;
 }
 
 
 /* footer */
 #footer {
     text-align: center;
-    margin: 0 auto;
-    margin: 3em;
+   
+  
 padding: 7em;
 }
 
